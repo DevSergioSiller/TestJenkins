@@ -3,21 +3,19 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package practicajenkins1;
+package jenkinstestnumero1;
 
 /**
  *
  * @author sergio
  */
-public class PracticaJenkins1 {
+public class JenkinsTestNumero1 {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
-                System.out.println("Hola, Jenkins. ¡Estoy funcionando!");
-
+                System.out.println("Hola, Jenkins. Â¡Estoy funcionando!");
     }
     
 }
