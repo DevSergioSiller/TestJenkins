@@ -15,13 +15,8 @@ public class PracticaJenkins1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-
-
-        System.out.println("Hola, Jenkins. ¡Estoy funcionando!");
-
-
-
-
+        // TODO code application logic here
+                System.out.println("Hola, Jenkins. Â¡Estoy funcionando!");
 
     }
     
